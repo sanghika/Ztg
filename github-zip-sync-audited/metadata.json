@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Zip Sync",
+  "description": "Upload a ZIP file and sync it directly to a GitHub repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
